@@ -13,18 +13,23 @@
   color: #333;background-color: #fff;">
     <table class="emailer-bg" style="width:600px; margin:auto;">
       <tr>
-        <td style="display:-webkit-box">
-            <img src="https://raw.githubusercontent.com/Prateeksharma13/images-repo/master/shri-page/images/Events1.jpg" class="emailer" style=" height: 35vh; width: 100%; background-size: cover;background-position: right bottom;
-            background-repeat: no-repeat;">
-          <div class="link" style=" margin-top: -42%;margin-right: 30px;font-size: 12px;margin-left: 77%;">
+        <td style="position:relative">
+          <a href="http://shrimad.fountane.com">
+          <img src="https://raw.githubusercontent.com/Prateeksharma13/images-repo/master/shri-page/images/finalshrimad%20(1).png" class="emailer" style=" height: 35vh; width: 100%; background-size: cover;background-position: right bottom;
+            background-repeat: no-repeat;"></a>
+        </td>
+        </tr>
+        <tr style="position:absolute">
+          <td>
+          <!-- <div class="link" style="padding-top: -42%;margin-right: 30px;font-size: 12px;margin-left: 77%;">
               <a href="#" style="  color: #fff; text-decoration:none;">Go to Shrimad.com <i class="fa fa-caret-right" aria-hidden="true" style=" font-size: 10px;
                 margin-left: 5px;"></i></a>
           </div>
-          <div class="white-logo" style="    text-align: center;width: 100%; margin-top: 60px;">
-          <img src="https://raw.githubusercontent.com/Prateeksharma13/images-repo/master/shri-page/images/shrimad-white-logo.png  " style="width: 176px;">
+          <div class="white-logo" style="text-align: center;width: 100%; margin-top: 60px;">
+          <img src="https://raw.githubusercontent.com/Prateeksharma13/images-repo/master/shri-page/images/shrimad-white-logo.png" style="width: 176px;  z-index: 222">
           <h1 style=" text-align: center; width: 100%;  opacity: 0.63;  font-family: Montserrat-Bold;
           font-size: 26px; color: #FFFFFF; letter-spacing: 0; line-height: 36px;   margin-top: 0vh; margin-left: -1%;">Event Invitation</h1>
-          </div>
+          </div> -->
         </td>
         </tr>
         </table>
@@ -34,9 +39,9 @@
                 <p style="font-size:22px; font-family: Montserrat-Bold; color:#4A4A4A; margin: 0 0 10px;">(event name)Aenean lacinia bibendum<br>nulla sed consectetur</p>
                 <div class= "left-btn" style="padding-top:20px;">
                 <button style="width: 160px; background-color: #4A90E2; border: none; border-radius: 4px; height: 40px;margin-top: 20px;
-                ;font-size: 16px;  color: #FFFFFF;line-height: 24px; font-family: Montserrat-Bold;">Accept invite</button>
-                <button style="width: 160px;  background-color: #4A90E2; border: none; border-radius: 4px; height: 40px;margin-top: 20px;
-               font-size: 16px;  color: #FFFFFF; line-height: 24px; font-family: Montserrat-Bold;">Reject invite</button>
+                ;font-size: 16px;  color: #FFFFFF;line-height: 24px; font-family: Montserrat-Bold;"> Proceed </button>
+                <!-- <button style="width: 160px;  background-color: #4A90E2; border: none; border-radius: 4px; height: 40px;margin-top: 20px;
+               font-size: 16px;  color: #FFFFFF; line-height: 24px; font-family: Montserrat-Bold;">Reject invite</button> -->
                 </div>
             </td>
             <td class="right" style="width:60%;">
@@ -64,11 +69,11 @@
         <table style="width:600px; margin:auto;">
           <tr class="footer-bg" style="width: 100%;height: 30vh;">
             <td style=" background-color:#F5F5F5;">
-                <div class="footer-logo" style="width: 100%; text-align: center;">
-                    <img src="https://raw.githubusercontent.com/Prateeksharma13/images-repo/master/shri-page/images/Logo.png" style=" width: 100px; margin-top: 10vh;margin-bottom: 20px;">
-                    </div>
-                    <div class="border-line" style="border-bottom: 3px solid #fff;">
-                    </div>
+                <!-- <div class="footer-logo" style="width: 100%; text-align: center;"> -->
+                    <!-- <img src="https://raw.githubusercontent.com/Prateeksharma13/images-repo/master/shri-page/images/Logo.png" style=" width: 100px; margin-top: 10vh;margin-bottom: 20px;"> -->
+                    <!-- </div> -->
+                    <!-- <div class="border-line" style="border-bottom: 3px solid #fff;"> -->
+                    <!-- </div> -->
                     <!-- <div class="social-icons" style="width: 100%; text-align: center; margin-top: 15px;">
                             <i class="fa fa-facebook" aria-hidden="true" style=" margin-left: 13px; margin-right: 15px;"></i>
                             <i class="fa fa-twitter" aria-hidden="true" style="margin-right: 15px;"></i>

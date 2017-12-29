@@ -12,5 +12,6 @@
 */
 
 Route::get('/', function () {
-  Mail::to("emailprateeksharma@gmail.com")->send(new App\Mail\SukorEmail());
+  Mail::to("raghavaramg@gmail.com")->send(new App\Mail\SukorEmail());
+  //eturn new App\Mail\SukorEmail();
 });
